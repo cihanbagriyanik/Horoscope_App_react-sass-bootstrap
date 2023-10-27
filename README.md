@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![ezgif com-optimize](https://github.com/cihanbagriyanik/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
