@@ -91,4 +91,8 @@
     opacity: 0.5;
     font-family: 'Almendra Display', serif;
 
+    &::-webkit-scrollbar{
+        display: none;
+    }
+
 }
